@@ -1,6 +1,14 @@
 {
     "versions":[ 
-        
+         {  
+            "base_version":2, 
+            "upgrade_type":"max", 
+            "download_type":"webpage", 
+            "webpage_url":"http://www.yomunchan.moe", 
+            "packages":[    
+                
+            ]
+        },
         {  
             "base_version":1, 
             "upgrade_type":"max", 
@@ -16,19 +24,4 @@
                 {
                     "version":2,
                     "md5":"c6243c13fe1997d535ed4fc0006615a5",
-                    "url":"https://github.com/nekonyastudio/UpdateService/raw/master/app/others/vectorwar/patch/android/base_1/2.xpk",
-                    "size":3856
-                }
-            ]
-        },
-        {  
-            "base_version":0, 
-            "upgrade_type":"cease", 
-            "download_type":"webpage", 
-            "webpage_url":"http://www.yomunchan.moe", 
-            "packages":[    
-                
-            ]
-        }
-    ]
-}
+                    "url":"https://github.com/nekonyastudio/UpdateService/raw/master/app/others/vectorwar/patch/android/b
